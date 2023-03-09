@@ -1,0 +1,17 @@
+{
+  "name": "curso-cypress-2022",
+  "version": "1.0.0",
+  "description": "Curso de Cypress inicio 15-12-2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run --browser chrome --spec '**/*.cy.js'"
+  },
+  "author": "Hector Adrian Benavidez",
+  "license": "ISC",
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.2.3",
+    "@cypress/xpath": "^2.0.3",
+    "cypress": "^12.1.0",
+    "cypress-plugin-tab": "^1.0.5"
+  }
+}

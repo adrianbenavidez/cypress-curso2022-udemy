@@ -1,0 +1,4 @@
+1 - npm init    --> inicializa el node package manager
+2 - npm install cypress --save-dev    --> instalación de Cypress
+3 - npx cypress open    --> ejecutar cypress
+4 - para detener consola ctrl + c
